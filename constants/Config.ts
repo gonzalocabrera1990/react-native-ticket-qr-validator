@@ -1,0 +1,5 @@
+export const CONFIG = {
+  // REEMPLAZAR CON TU IP LOCAL (ej: 192.168.1.100)
+  BASE_URL: 'http://192.168.100.13:8000',
+  TIMEOUT: 10000,
+};
